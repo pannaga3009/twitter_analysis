@@ -1,4 +1,5 @@
 # twitter_analysis
 
-[demo.py](Demo of twitter streaming api)
+[demo.py](demo.py)
+
 Pannaga V
